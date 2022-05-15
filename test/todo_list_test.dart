@@ -1,5 +1,5 @@
+import 'package:appbuilders_my_todos/core.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:my_todos_core/core.dart';
 
 void main() {
   group('TodoList ', () {
